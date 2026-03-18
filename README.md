@@ -13,7 +13,7 @@
 
 
 ## 🏆 Hacktoberfest Badges
-[![Holopin badges](https://holopin.io/api/user/board?user=spandeyvspcommits)](https://holopin.io/@spandeyvspcommits)
+[![Holopin badges](https://holopin.me/spandeyvspcommits)](https://holopin.io/@spandeyvspcommits)
 
 ---
 
