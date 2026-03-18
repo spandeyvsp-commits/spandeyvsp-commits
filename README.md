@@ -20,7 +20,8 @@
 ## 💻 Tech Stack
 - 🌐 HTML | CSS  
 - ⚙️ Git & GitHub  
-- 🐍 Python (Beginner)  
+- 🐍 Python (Beginner)
+- 🌱 C++ (Beginner)
 
 ---
 
